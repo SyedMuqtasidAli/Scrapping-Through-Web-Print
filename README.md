@@ -1,4 +1,4 @@
-# Web Print Data Extractor
+# Web Print Data Extractor🌐🖨️
 
 This Python script is designed to perform web scraping by utilizing the 'Print' button on web pages. The script guides the user to initiate the print process manually, captures the HTML source, and then parses and saves the data.
 
@@ -8,7 +8,7 @@ Make sure to install the required dependencies by running the following command 
 
 # Instructions for Running the Script
 
-## Download and Extract:
+## Download and Extract:🚀
 
 - Download the repository.
 - Extract the files to your desired directory.
