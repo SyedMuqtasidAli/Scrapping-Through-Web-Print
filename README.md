@@ -31,3 +31,5 @@ Make sure to install the required dependencies by running the following command 
 pip install -r requirements.txt
 ```
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muqtasid5266@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/923176517525)
+
